@@ -5,6 +5,7 @@ PRIMARY OBJECTIVE-By using Instant data scrapper tool,scrap all the data from Go
 
 SOLUTION-
 Step1-First of all add instant data scrapper upon your google extension
+![Screenshot (19)](https://github.com/prashant9621/Internshipneodocto/assets/136049491/21088a08-cf2a-476c-a65c-4036a2db3cd4)
 
 
 
