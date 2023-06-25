@@ -9,6 +9,8 @@ Step1-First of all add instant data scrapper upon your google extension
 
 
 Step2-Now search the Area and Pincode in Chrome for which you assigned the task.
+![Screenshot (14)](https://github.com/prashant9621/Internshipneodocto/assets/136049491/5ace9b28-9f41-41dc-bf4e-0a6325b90b6e)
+
 
 
 
