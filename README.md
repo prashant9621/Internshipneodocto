@@ -30,7 +30,7 @@ It will autmatically scapper all the Data and it shows windows like below,
 
 now, just click on XLSX file to download exell file...after downloading it just open it an format it in a proper manner it means just change the names of columns as name,
 
-
+![Screenshot (18)](https://github.com/prashant9621/Internshipneodocto/assets/136049491/94badc25-989d-4d5c-9cf9-8e0264aca156)
  After Completing these all steps successfully just count the total rows and upload the file in the project folder and then just copy the link of the file and paste it in the input file where you assign your task and also write down the total count
 
 
