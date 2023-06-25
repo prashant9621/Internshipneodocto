@@ -5,9 +5,11 @@ PRIMARY OBJECTIVE-By using Instant data scrapper tool,scrap all the data from Go
 
 SOLUTION-
 Step1-First of all add instant data scrapper upon your google extension
+![Screenshot (13)](https://github.com/prashant9621/Internshipneodocto/assets/136049491/ca462ec6-c632-4e13-b767-d61a9f6f46b7)
 
 
-Step2-Now search the Area and Pincode in Chrome for which you assigned the task in this way
+Step2-Now search the Area and Pincode in Chrome for which you assigned the task.
+
 
 
 Step3-scroll down the list untill you see NEXT tab
