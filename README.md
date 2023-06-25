@@ -15,6 +15,8 @@ Step2-Now search the Area and Pincode in Chrome for which you assigned the task.
 
 
 Step3-scroll down the list untill you see NEXT tab
+![Screenshot (15)](https://github.com/prashant9621/Internshipneodocto/assets/136049491/afe0fbfd-4bfc-4b09-9c18-fb5d75472c5e)
+
 
 
 Step4-Now click upon the Puzzle symbol where all your extension are located
