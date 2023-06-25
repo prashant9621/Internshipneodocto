@@ -21,6 +21,7 @@ Step3-scroll down the list untill you see NEXT tab
 
 Step4-Now click upon the Puzzle symbol where all your extension are located
 
+![Screenshot (16)](https://github.com/prashant9621/Internsh/assets/136049491/8e26d46b-1164-48ed-a830-fc9b5a9b6cf1)ipneodocto/assets/136049491/8e26d46b-1164-48ed-a830-fc9b5a9b6cf1)
 
 now click upon Instant data scrapper
 It will autmatically scapper all the Data and it shows windows like below,
