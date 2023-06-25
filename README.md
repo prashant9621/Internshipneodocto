@@ -25,6 +25,7 @@ Step4-Now click upon the Puzzle symbol where all your extension are located
 
 now click upon Instant data scrapper
 It will autmatically scapper all the Data and it shows windows like below,
+![Screenshot (17)](https://github.com/prashant9621/Internshipneodocto/assets/136049491/6bb4c222-531b-4b1e-a627-5e6b9e8358a4)
 
 
 now, just click on XLSX file to download exell file...after downloading it just open it an format it in a proper manner it means just change the names of columns as name,
